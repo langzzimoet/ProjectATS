@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529984852410",
+    "project_id": "project-crud-gilangsetya",
+    "storage_bucket": "project-crud-gilangsetya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529984852410:android:b01e84f43b7e4c78a28d83",
+        "android_client_info": {
+          "package_name": "com.example.crud_gilang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8DPAVWsXGRyf6wVuvpxbvXx1aSQpUdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529984852410:android:bdf1de95692d5b03a28d83",
+        "android_client_info": {
+          "package_name": "com.example.crud_gilang2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8DPAVWsXGRyf6wVuvpxbvXx1aSQpUdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
